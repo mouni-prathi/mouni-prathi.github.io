@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Home</title>
+    <link>http://10.0.0.36:1313/post/</link>
+    <description>Recent content in Posts on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>mouniprathi@outlook.com (Mouni Prathi)</managingEditor>
+    <webMaster>mouniprathi@outlook.com (Mouni Prathi)</webMaster>
+    <atom:link href="http://10.0.0.36:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/post/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/post/links/</guid>
+      <description>&lt;h4 id=&#34;skills-&#34;&gt;Skills 🥷🏽&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;http://10.0.0.36:1313/Cloud_skills&#34;&gt;Cloud&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/containers&#34;&gt;Containers&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/monitoring&#34;&gt;Monitoring&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/programming&#34;&gt;Programming&lt;/a&gt; &lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/iac&#34;&gt;Infrastructre_as_code&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/databases&#34;&gt;Databases&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;-experience-&#34;&gt;🔗 &lt;a href=&#34;http://10.0.0.36:1313/mp_experience&#34;&gt;Experience&lt;/a&gt; 💼👨‍💻&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-contact&#34;&gt;🔗 &lt;a href=&#34;http://10.0.0.36:1313/page/about&#34;&gt;Contact&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>

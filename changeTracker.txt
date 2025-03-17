@@ -1,0 +1,7 @@
+Updated hugo.tmol to add skills and Experience
+commented single.html to remove range in line 8
+commented terms.html line 9
+that removed posts section (main block in body)
+commented #4 in post_meta.html
+commented post_preview.html as its adding posts on homepage
+also commented in list.html

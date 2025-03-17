@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://10.0.0.36:1313/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>mouniprathi@outlook.com (Mouni Prathi)</managingEditor>
+    <webMaster>mouniprathi@outlook.com (Mouni Prathi)</webMaster>
+    <lastBuildDate>Fri, 13 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://10.0.0.36:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SRE</title>
+      <link>http://10.0.0.36:1313/sre/</link>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/sre/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incident Managements and analysis. RCA and there documentation. User communication. Documentation.&lt;/li&gt;&#xA;&lt;li&gt;Eyes on Glass type monitoring. Build Dashboards in Splunk, Grafana, DynaTrace and App Dynamics.&lt;/li&gt;&#xA;&lt;li&gt;Multi-day deployments with global collabration of other teams.&lt;/li&gt;&#xA;&lt;li&gt;Oncall shifts. Application first attitude. Proactive error handling and alert management instead reactive.&lt;/li&gt;&#xA;&lt;li&gt;Automation, Toil Reduction. Infrastructure analysis and Troubleshooting.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/2015-01-15-pirates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-01-15-pirates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/2015-01-27-dear-diary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-01-27-dear-diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/2015-02-20-test-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-02-20-test-markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/2015-02-26-flake-it-till-you-make-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-02-26-flake-it-till-you-make-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/containers/</guid>
+      <description>&lt;h3 id=&#34;docker&#34;&gt;Docker&lt;/h3&gt;&#xA;&lt;h3 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h3&gt;&#xA;&lt;h3 id=&#34;eks&#34;&gt;EKS&lt;/h3&gt;&#xA;&lt;h3 id=&#34;aks&#34;&gt;AKS&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/databases/</guid>
+      <description>&lt;h3 id=&#34;sql-server&#34;&gt;SQL Server&lt;/h3&gt;&#xA;&lt;h3 id=&#34;oracle&#34;&gt;Oracle&lt;/h3&gt;&#xA;&lt;h3 id=&#34;mysql&#34;&gt;MySQL&lt;/h3&gt;&#xA;&lt;h3 id=&#34;mongodb&#34;&gt;MongoDB&lt;/h3&gt;&#xA;&lt;h3 id=&#34;redis&#34;&gt;Redis&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/iac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/iac/</guid>
+      <description>&lt;h3 id=&#34;terraform&#34;&gt;Terraform&lt;/h3&gt;&#xA;&lt;h3 id=&#34;cloud-formation&#34;&gt;Cloud Formation&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/monitoring/</guid>
+      <description>&lt;h3 id=&#34;splunk&#34;&gt;Splunk&lt;/h3&gt;&#xA;&lt;h3 id=&#34;appdynamics&#34;&gt;AppDynamics&lt;/h3&gt;&#xA;&lt;h3 id=&#34;dynatrace&#34;&gt;DynaTrace&lt;/h3&gt;&#xA;&lt;h3 id=&#34;opsramp&#34;&gt;OpsRamp&lt;/h3&gt;&#xA;&lt;h3 id=&#34;bmc-patrol&#34;&gt;BMC Patrol&lt;/h3&gt;&#xA;&lt;h3 id=&#34;grafana&#34;&gt;Grafana&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/mp-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/mp-cloud/</guid>
+      <description>&lt;h3 id=&#34;aint-there-too-many-clouds&#34;&gt;Ain&amp;rsquo;t there too many clouds?&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/post/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/post/links/</guid>
+      <description>&lt;h4 id=&#34;skills-&#34;&gt;Skills 🥷🏽&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;http://10.0.0.36:1313/Cloud_skills&#34;&gt;Cloud&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/containers&#34;&gt;Containers&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/monitoring&#34;&gt;Monitoring&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/programming&#34;&gt;Programming&lt;/a&gt; &lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/iac&#34;&gt;Infrastructre_as_code&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;http://10.0.0.36:1313/databases&#34;&gt;Databases&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;-experience-&#34;&gt;🔗 &lt;a href=&#34;http://10.0.0.36:1313/mp_experience&#34;&gt;Experience&lt;/a&gt; 💼👨‍💻&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-contact&#34;&gt;🔗 &lt;a href=&#34;http://10.0.0.36:1313/page/about&#34;&gt;Contact&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/programming/</guid>
+      <description>&lt;h3 id=&#34;golang&#34;&gt;Golang&lt;/h3&gt;&#xA;&lt;h3 id=&#34;powershell&#34;&gt;Powershell&lt;/h3&gt;&#xA;&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ruby&#34;&gt;Ruby&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://10.0.0.36:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/page/about/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;12 years of Total IT Experience.&lt;br&gt;&#xA;Expert in cloud, Kubernetes and monitoring of Applications.&lt;br&gt;&#xA;DM me on Linkedin.&lt;/p&gt;&#xA;&lt;h5 id=&#34;hobbies&#34;&gt;Hobbies:&lt;/h5&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Video games, Hiking, Camping and reading.&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;my-journery&#34;&gt;my journery&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Started as SQL Server DBA. Jumped many hops to become a SRE.&lt;br&gt;&#xA;Now I like being SRE. It sort of gives a birds eye of how applications work.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://10.0.0.36:1313/mp_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/mp_experience/</guid>
+      <description>&lt;h3 id=&#34;jpmorgan-chase&#34;&gt;JPMorgan Chase&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-sre&#34;&gt;Role: SRE&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Application support and performance.&lt;/li&gt;&#xA;&lt;li&gt;Incident handling and analysis.&lt;/li&gt;&#xA;&lt;li&gt;Multi-Stage deployment and deployment optimization.&lt;/li&gt;&#xA;&lt;li&gt;Site/Data Center Reliability. Disaster Recovery.&lt;/li&gt;&#xA;&lt;li&gt;Automation. Event driven. Log analysis.&lt;/li&gt;&#xA;&lt;li&gt;Performance tuning. End user communication.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;micron&#34;&gt;Micron&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-database-engineer&#34;&gt;Role: Database Engineer&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Database administrtion. Troubleshooting. Database optimization.&lt;/li&gt;&#xA;&lt;li&gt;Database replication. Always ON database availability groups.&lt;/li&gt;&#xA;&lt;li&gt;PowerShell Automation for Database deployments and backup-restores.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;cystron-pharma&#34;&gt;Cystron Pharma&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-migration-engineer&#34;&gt;Role: Migration Engineer&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Migrating on-prem to Azure Cloud.&lt;/li&gt;&#xA;&lt;li&gt;Database report optimization. SSRS.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;aig&#34;&gt;AIG&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-database-admin&#34;&gt;Role: Database admin&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Database administrtion. Troubleshooting. Database optimization.&lt;/li&gt;&#xA;&lt;li&gt;Building database instances from Standalone, Windows Failover cluster.&lt;/li&gt;&#xA;&lt;li&gt;Database mirroring and replication.&lt;/li&gt;&#xA;&lt;li&gt;License discovery and cost optimization.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>So Cloudy!!</title>
+      <link>http://10.0.0.36:1313/cloud_skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/cloud_skills/</guid>
+      <description>&lt;h1 id=&#34;cloud-foundry--aws--azure--gcp&#34;&gt;Cloud Foundry | AWS | Azure | GCP&lt;/h1&gt;&#xA;&lt;h3 id=&#34;cloud-foundry&#34;&gt;Cloud Foundry&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spent 3 years mastering cloud foundry.&lt;/li&gt;&#xA;&lt;li&gt;Deployments, Reliability tests, Disaster recovries.&lt;/li&gt;&#xA;&lt;li&gt;Automation using CF CLI and Powershell.&lt;/li&gt;&#xA;&lt;li&gt;Managed springboot, python, angular, react and go applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;aws&#34;&gt;AWS&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Certified Cloud Solutions Architect.&lt;/li&gt;&#xA;&lt;li&gt;aws cli.  EKS including &lt;strong&gt;fargate&lt;/strong&gt; &lt;strong&gt;EKS Cluster&lt;/strong&gt; &lt;strong&gt;EKS Demo&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kode Kloud certified CKA Admin.&lt;/li&gt;&#xA;&lt;li&gt;Deploying resources with Terraform.&lt;/li&gt;&#xA;&lt;li&gt;IAM. RBAC Authentication.  &lt;strong&gt;Cloud watch&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;azure&#34;&gt;Azure&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My &lt;strong&gt;First&lt;/strong&gt; Cloud certification.&lt;/li&gt;&#xA;&lt;li&gt;Specialized in AZURE Databases.&lt;/li&gt;&#xA;&lt;li&gt;Trained in Azure Kubernetes Services.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;gcp&#34;&gt;GCP&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I thought, already have two majors CSP&amp;rsquo;s, why not one more.&lt;/li&gt;&#xA;&lt;li&gt;Trained waiting for hands on.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

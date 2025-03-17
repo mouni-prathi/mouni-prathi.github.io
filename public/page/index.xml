@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Home</title>
+    <link>http://10.0.0.36:1313/page/</link>
+    <description>Recent content in Pages on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>mouniprathi@outlook.com (Mouni Prathi)</managingEditor>
+    <webMaster>mouniprathi@outlook.com (Mouni Prathi)</webMaster>
+    <atom:link href="http://10.0.0.36:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://10.0.0.36:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/page/about/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;12 years of Total IT Experience.&lt;br&gt;&#xA;Expert in cloud, Kubernetes and monitoring of Applications.&lt;br&gt;&#xA;DM me on Linkedin.&lt;/p&gt;&#xA;&lt;h5 id=&#34;hobbies&#34;&gt;Hobbies:&lt;/h5&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Video games, Hiking, Camping and reading.&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;my-journery&#34;&gt;my journery&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Started as SQL Server DBA. Jumped many hops to become a SRE.&lt;br&gt;&#xA;Now I like being SRE. It sort of gives a birds eye of how applications work.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
