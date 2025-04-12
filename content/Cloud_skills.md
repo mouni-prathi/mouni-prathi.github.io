@@ -22,7 +22,6 @@ title: So Cloudy!!
 ### Azure
 > - My **First** Cloud certification.  
 > - Specialized in AZURE Databases.  
-> - Trained in Azure Kubernetes Services.  
+> - Azure Kubernetes Services.  
 ### GCP
 > - I thought, already have two majors CSP's, why not one more.
-> - Trained waiting for hands on.

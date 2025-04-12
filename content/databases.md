@@ -1,5 +1,40 @@
-### SQL Server
-### Oracle
-### MySQL
-### MongoDB
-### Redis
+<details open>
+  <summary>Databases/Datalakes</summary>
+  <ul>
+    <li>
+      <details>
+        <summary>Databases</summary>
+        <ul>
+          <li>
+            <details open>
+              <summary>RDBMS</summary>
+              <ul>
+                <li>Oracle</li>
+                <li>MSSQL</li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details open>
+              <summary>NoSQL</summary>
+              <ul>
+                <li>MongoDB</li>
+                <li>Redis</li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Datalakes</summary>
+        <ul>
+                <li>Databricks</li>
+                <li>Dremio</li>
+                <li>Starburst</li>
+              </ul>
+      </details>
+    </li>
+  </ul>
+</details>

@@ -3,15 +3,19 @@ title: About me
 subtitle: Mouni Prathi
 comments: false
 ---
+### About Me :raising_hand:
+- :heavy_check_mark: 12 years of Total IT Experience. Seasoned SRE with high performance and large applications support.  
+- :heavy_check_mark: Site Reliability Engineer with Speciality in Databases and Data Engineering.
+- :heavy_check_mark: Application Design, Performance, Troubleshooting. Microservices, Cloud, Onprem, Edge computing, Contenarization and Datalakes.
+- :heavy_check_mark: Event Driven Automation, Scripting, Monitoring.
+- :email: DM me on Linkedin.  
 
-> 12 years of Total IT Experience.  
-> Expert in cloud, Kubernetes and monitoring of Applications.  
-> DM me on Linkedin.
-> ##### Hobbies:
->> Video games, Hiking, Camping and reading.
+#### Hobbies:
+Video games :joystick: Hiking! :mountain: Camping :tent: Reading :book: MotorCycling :motorcycle:
 
 
-### my journery
+#### the init :fireworks:
 
-> Started as SQL Server DBA. Jumped many hops to become a SRE.  
-> Now I like being SRE. It sort of gives a birds eye of how applications work.  
+- Started as a Database Admin. I was drawn to troubleshooting, performance tuning, Automation and monitoring of Databases.  
+- My administrative skills allowed me to choose SRE role as more kind of natural selection.  
+- Now, I like being SRE. Some say its boring job! But it brings very excitement and the inevitable force with it to you which makes you add more skills everyday and challenges you in every turn.    

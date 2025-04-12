@@ -1,13 +1,14 @@
-####   Skills 🥷🏽
-> 🔗 [Cloud](/Cloud_skills)   
-> 🔗 [Containers](/containers)  
-> 🔗 [Monitoring](/monitoring)  
-> 🔗 [Programming](/programming)    
-> 🔗 [Infrastructre_as_code](/iac)  
-> 🔗 [Databases](/databases)
 
-    
+### :gem:  Skills 
+- :cloud: [Cloud](/Cloud_skills)   
+- :ship: [Containers](/containers)  
+- :mag: [Observability](/monitoring)  
+- :crystal_ball: [Coding](/programming)    
+- :ferris_wheel: [Infrastructre_as_code](/iac)  
+- :cd: [Databases/Datalakes](/databases)
 
-###   🔗 [Experience](/mp_experience) 💼👨‍💻
+---   
 
-### 🔗 [Contact](/page/about) 
+###   :briefcase: [Experience](/mp_experience)
+---
+### :mailbox: [Contact](/page/about) 
