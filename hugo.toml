@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://mouni-prathi.github.io"
 DefaultContentLanguage = "en"
 title = "Home"
 markup = "goldmark"
