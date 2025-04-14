@@ -14,7 +14,7 @@ comments: false
 Video games :joystick: Hiking! :mountain: Camping :tent: Reading :book: MotorCycling :motorcycle:
 
 
-#### the init :fireworks:
+#### The Init :fireworks:
 
 - Started as a Database Admin. I was drawn to troubleshooting, performance tuning, Automation and monitoring of Databases.  
 - My administrative skills allowed me to choose SRE role as more kind of natural selection.  
