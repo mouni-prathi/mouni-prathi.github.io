@@ -106,7 +106,7 @@ homeTitle = "Mouni Prathi" # Set a different text for the header on the home pag
 [[menu.main]]
     parent = "skills"
     name = "Cloud"
-    url = "post/Cloud_skills"
+    url = "Cloud_skills"
     weight = 2
 
 [[menu.main]]

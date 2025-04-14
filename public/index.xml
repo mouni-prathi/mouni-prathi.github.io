@@ -64,7 +64,7 @@
       <link>http://10.0.0.36:1313/databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://10.0.0.36:1313/databases/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;h2 id=&#34;relational-databases&#34;&gt;Relational Databases&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Microsoft SQL Server&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;no-sql-databases&#34;&gt;No-SQL Databases&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MongoDB&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;RedIs&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;datalakes&#34;&gt;DataLakes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hadoop&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databricks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Starburst&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
