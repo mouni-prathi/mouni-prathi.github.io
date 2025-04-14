@@ -6,7 +6,8 @@
 - :crystal_ball: [Coding](/programming)    
 - :ferris_wheel: [Infrastructre_as_code](/iac)  
 - :cd: [Databases/Datalakes](/databases)
-
+- :rocket: [CI/CD](CI_CD)
+- :robot: [SRE](SRE)
 ---   
 
 ###   :briefcase: [Experience](/mp_experience)
