@@ -12,7 +12,7 @@
     <item>
       <title>Cloud Skills</title>
       <link>http://localhost:1313/post/2017-03-07-bigimg-sample/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <pubDate></pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/post/2017-03-07-bigimg-sample/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;&#xA;&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
     </item>
