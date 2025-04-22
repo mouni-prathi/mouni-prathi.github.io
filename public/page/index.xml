@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Home</title>
-    <link>http://10.0.0.36:1313/page/</link>
+    <link>http://localhost:1313/page/</link>
     <description>Recent content in Pages on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>mouniprathi@outlook.com (Mouni Prathi)</managingEditor>
     <webMaster>mouniprathi@outlook.com (Mouni Prathi)</webMaster>
-    <atom:link href="http://10.0.0.36:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://10.0.0.36:1313/page/about/</link>
+      <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://10.0.0.36:1313/page/about/</guid>
+      <guid>http://localhost:1313/page/about/</guid>
       <description>&lt;h3 id=&#34;about-me-raising_hand&#34;&gt;About Me &amp;#x1f64b;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; 12 years of Total IT Experience. Seasoned SRE with high performance and large applications support.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; Site Reliability Engineer with Speciality in Databases and Data Engineering.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; Application Design, Performance, Troubleshooting. Microservices, Cloud, Onprem, Edge computing, Contenarization and Datalakes.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; Event Driven Automation, Scripting, Monitoring.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f4e7; DM me on Linkedin.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;hobbies&#34;&gt;Hobbies:&lt;/h4&gt;&#xA;&lt;p&gt;Video games &amp;#x1f579;&amp;#xfe0f; Hiking! &amp;#x26f0;&amp;#xfe0f; Camping &amp;#x26fa; Reading &amp;#x1f4d6; MotorCycling &amp;#x1f3cd;&amp;#xfe0f;&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-init-fireworks&#34;&gt;The Init &amp;#x1f386;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Started as a Database Admin. I was drawn to troubleshooting, performance tuning, Automation and monitoring of Databases.&lt;/li&gt;&#xA;&lt;li&gt;My administrative skills allowed me to choose SRE role as more kind of natural selection.&lt;/li&gt;&#xA;&lt;li&gt;Now, I like being SRE. Some say its boring job! But it brings very excitement and the inevitable force with it to you which makes you add more skills everyday and challenges you in every turn.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

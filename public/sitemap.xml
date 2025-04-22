@@ -2,52 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://10.0.0.36:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2015-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://10.0.0.36:1313/sre/</loc>
+    <loc>http://localhost:1313/sre/</loc>
     <lastmod>2015-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://10.0.0.36:1313/2015-01-15-pirates/</loc>
+    <loc>http://localhost:1313/post/links/</loc>
+    <lastmod>1969-12-31T18:33:45-06:00</lastmod>
   </url><url>
-    <loc>http://10.0.0.36:1313/2015-01-27-dear-diary/</loc>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>1969-12-31T18:33:45-06:00</lastmod>
   </url><url>
-    <loc>http://10.0.0.36:1313/2015-02-20-test-markdown/</loc>
+    <loc>http://localhost:1313/2015-01-15-pirates/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/2015-02-26-flake-it-till-you-make-it/</loc>
+    <loc>http://localhost:1313/2015-01-27-dear-diary/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/2017-03-20-photoswipe-gallery-sample/</loc>
+    <loc>http://localhost:1313/2015-02-20-test-markdown/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/ci_cd/</loc>
+    <loc>http://localhost:1313/2015-02-26-flake-it-till-you-make-it/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/containers/</loc>
+    <loc>http://localhost:1313/2017-03-20-photoswipe-gallery-sample/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/databases/</loc>
+    <loc>http://localhost:1313/ci_cd/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/first-post/</loc>
+    <loc>http://localhost:1313/containers/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/iac/</loc>
+    <loc>http://localhost:1313/databases/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/monitoring/</loc>
+    <loc>http://localhost:1313/first-post/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/mp-cloud/</loc>
+    <loc>http://localhost:1313/iac/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/post/links/</loc>
+    <loc>http://localhost:1313/monitoring/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/programming/</loc>
+    <loc>http://localhost:1313/mp-cloud/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/page/about/</loc>
+    <loc>http://localhost:1313/programming/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/categories/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/mp_experience/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/page/</loc>
+    <loc>http://localhost:1313/mp_experience/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/post/</loc>
+    <loc>http://localhost:1313/page/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/cloud_skills/</loc>
+    <loc>http://localhost:1313/cloud_skills/</loc>
   </url><url>
-    <loc>http://10.0.0.36:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
