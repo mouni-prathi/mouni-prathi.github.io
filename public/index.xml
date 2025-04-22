@@ -19,6 +19,7 @@
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/post/links/</link>
       <pubDate>Wed, 31 Dec 1969 18:33:45 -0600</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/post/links/</guid>
@@ -29,111 +30,213 @@
       <link>http://localhost:1313/2015-01-15-pirates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/2015-01-15-pirates/</guid>
+=======
+      <link>http://10.0.0.36:1313/2015-01-15-pirates/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-01-15-pirates/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description></description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/2015-01-27-dear-diary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/2015-01-27-dear-diary/</guid>
+=======
+      <link>http://10.0.0.36:1313/2015-01-27-dear-diary/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-01-27-dear-diary/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description></description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/2015-02-20-test-markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/2015-02-20-test-markdown/</guid>
+=======
+      <link>http://10.0.0.36:1313/2015-02-20-test-markdown/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-02-20-test-markdown/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description></description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/2015-02-26-flake-it-till-you-make-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/2015-02-26-flake-it-till-you-make-it/</guid>
+=======
+      <link>http://10.0.0.36:1313/2015-02-26-flake-it-till-you-make-it/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2015-02-26-flake-it-till-you-make-it/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description></description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/2017-03-20-photoswipe-gallery-sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/2017-03-20-photoswipe-gallery-sample/</guid>
+=======
+      <link>http://10.0.0.36:1313/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/2017-03-20-photoswipe-gallery-sample/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description></description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/ci_cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/ci_cd/</guid>
+=======
+      <link>http://10.0.0.36:1313/ci_cd/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/ci_cd/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h2 id=&#34;cicd&#34;&gt;CI/CD&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/containers/</guid>
+=======
+      <link>http://10.0.0.36:1313/containers/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/containers/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;docker&#34;&gt;Docker&lt;/h3&gt;&#xA;&lt;h3 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h3&gt;&#xA;&lt;h3 id=&#34;eks&#34;&gt;EKS&lt;/h3&gt;&#xA;&lt;h3 id=&#34;aks&#34;&gt;AKS&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/databases/</guid>
+=======
+      <link>http://10.0.0.36:1313/databases/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/databases/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h2 id=&#34;relational-databases&#34;&gt;Relational Databases&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Microsoft SQL Server&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;no-sql-databases&#34;&gt;No-SQL Databases&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MongoDB&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;RedIs&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;datalakes&#34;&gt;DataLakes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hadoop&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databricks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Starburst&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/first-post/</guid>
+=======
+      <link>http://10.0.0.36:1313/first-post/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/first-post/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description></description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/iac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/iac/</guid>
+=======
+      <link>http://10.0.0.36:1313/iac/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/iac/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;terraform&#34;&gt;Terraform&lt;/h3&gt;&#xA;&lt;h3 id=&#34;cloud-formation&#34;&gt;Cloud Formation&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/monitoring/</guid>
+=======
+      <link>http://10.0.0.36:1313/monitoring/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/monitoring/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;splunk&#34;&gt;Splunk&lt;/h3&gt;&#xA;&lt;h3 id=&#34;appdynamics&#34;&gt;AppDynamics&lt;/h3&gt;&#xA;&lt;h3 id=&#34;dynatrace&#34;&gt;DynaTrace&lt;/h3&gt;&#xA;&lt;h3 id=&#34;opsramp&#34;&gt;OpsRamp&lt;/h3&gt;&#xA;&lt;h3 id=&#34;bmc-patrol&#34;&gt;BMC Patrol&lt;/h3&gt;&#xA;&lt;h3 id=&#34;grafana&#34;&gt;Grafana&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/mp-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/mp-cloud/</guid>
+=======
+      <link>http://10.0.0.36:1313/mp-cloud/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/mp-cloud/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;aint-there-too-many-clouds&#34;&gt;Ain&amp;rsquo;t there too many clouds?&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>http://localhost:1313/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/programming/</guid>
+=======
+      <link>http://10.0.0.36:1313/post/links/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/post/links/</guid>
+      <description>&lt;p&gt;Seasoned &lt;strong&gt;Site Reliability Engineer&lt;/strong&gt; with a &lt;strong&gt;12-year&lt;/strong&gt; track record in IT, focusing on &lt;strong&gt;Data Engineering&lt;/strong&gt; workloads and the establishment of &lt;strong&gt;high-performance, reliable environments.&lt;/strong&gt; Dedicated to providing customer-focused, lightning-fast reporting to end users through close collaboration with data engineers to optimize &lt;strong&gt;data pipeline executions and ETL/ELT processes.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;gem--skills&#34;&gt;&amp;#x1f48e;  Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;#x2601;&amp;#xfe0f; &lt;a href=&#34;http://10.0.0.36:1313/cloud_skills&#34;&gt;Cloud&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f6a2; &lt;a href=&#34;http://10.0.0.36:1313/containers&#34;&gt;Containers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f50d; &lt;a href=&#34;http://10.0.0.36:1313/monitoring&#34;&gt;Observability&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f52e; &lt;a href=&#34;http://10.0.0.36:1313/programming&#34;&gt;Coding&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f3a1; &lt;a href=&#34;http://10.0.0.36:1313/iac&#34;&gt;Infrastructre_as_code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f4bf; &lt;a href=&#34;http://10.0.0.36:1313/databases&#34;&gt;Databases/Datalakes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f680; &lt;a href=&#34;ci_cd&#34;&gt;CI/CD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f916; &lt;a href=&#34;sre&#34;&gt;SRE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;briefcase-experience&#34;&gt;&amp;#x1f4bc; &lt;a href=&#34;http://10.0.0.36:1313/mp_experience&#34;&gt;Experience&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;mailbox-contact&#34;&gt;&amp;#x1f4eb; &lt;a href=&#34;http://10.0.0.36:1313/page/about&#34;&gt;Contact&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://10.0.0.36:1313/programming/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/programming/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;golang&#34;&gt;Golang&lt;/h3&gt;&#xA;&lt;h3 id=&#34;powershell&#34;&gt;Powershell&lt;/h3&gt;&#xA;&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ruby&#34;&gt;Ruby&lt;/h3&gt;</description>
     </item>
     <item>
       <title>About me</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/page/about/</guid>
+=======
+      <link>http://10.0.0.36:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/page/about/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;about-me-raising_hand&#34;&gt;About Me &amp;#x1f64b;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; 12 years of Total IT Experience. Seasoned SRE with high performance and large applications support.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; Site Reliability Engineer with Speciality in Databases and Data Engineering.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; Application Design, Performance, Troubleshooting. Microservices, Cloud, Onprem, Edge computing, Contenarization and Datalakes.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x2714;&amp;#xfe0f; Event Driven Automation, Scripting, Monitoring.&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f4e7; DM me on Linkedin.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;hobbies&#34;&gt;Hobbies:&lt;/h4&gt;&#xA;&lt;p&gt;Video games &amp;#x1f579;&amp;#xfe0f; Hiking! &amp;#x26f0;&amp;#xfe0f; Camping &amp;#x26fa; Reading &amp;#x1f4d6; MotorCycling &amp;#x1f3cd;&amp;#xfe0f;&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-init-fireworks&#34;&gt;The Init &amp;#x1f386;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Started as a Database Admin. I was drawn to troubleshooting, performance tuning, Automation and monitoring of Databases.&lt;/li&gt;&#xA;&lt;li&gt;My administrative skills allowed me to choose SRE role as more kind of natural selection.&lt;/li&gt;&#xA;&lt;li&gt;Now, I like being SRE. Some say its boring job! But it brings very excitement and the inevitable force with it to you which makes you add more skills everyday and challenges you in every turn.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Experience</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/mp_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/mp_experience/</guid>
+=======
+      <link>http://10.0.0.36:1313/mp_experience/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/mp_experience/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h3 id=&#34;jpmorgan-chase&#34;&gt;JPMorgan Chase&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-sre&#34;&gt;Role: SRE&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Application support and performance.&lt;/li&gt;&#xA;&lt;li&gt;Incident handling and analysis.&lt;/li&gt;&#xA;&lt;li&gt;Multi-Stage deployment and deployment optimization.&lt;/li&gt;&#xA;&lt;li&gt;Site/Data Center Reliability. Disaster Recovery.&lt;/li&gt;&#xA;&lt;li&gt;Automation. Event driven. Log analysis.&lt;/li&gt;&#xA;&lt;li&gt;Performance tuning. End user communication.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;micron&#34;&gt;Micron&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-database-engineer&#34;&gt;Role: Database Engineer&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Database administrtion. Troubleshooting. Database optimization.&lt;/li&gt;&#xA;&lt;li&gt;Database replication. Always ON database availability groups.&lt;/li&gt;&#xA;&lt;li&gt;PowerShell Automation for Database deployments and backup-restores.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;cystron-pharma&#34;&gt;Cystron Pharma&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-migration-engineer&#34;&gt;Role: Migration Engineer&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Migrating on-prem to Azure Cloud.&lt;/li&gt;&#xA;&lt;li&gt;Database report optimization. SSRS.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;aig&#34;&gt;AIG&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;role-database-admin&#34;&gt;Role: Database admin&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Database administrtion. Troubleshooting. Database optimization.&lt;/li&gt;&#xA;&lt;li&gt;Building database instances from Standalone, Windows Failover cluster.&lt;/li&gt;&#xA;&lt;li&gt;Database mirroring and replication.&lt;/li&gt;&#xA;&lt;li&gt;License discovery and cost optimization.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>So Cloudy!!</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/cloud_skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
       <guid>http://localhost:1313/cloud_skills/</guid>
+=======
+      <link>http://10.0.0.36:1313/cloud_skills/</link>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
+      <guid>http://10.0.0.36:1313/cloud_skills/</guid>
+>>>>>>> f15ee94d4c3156123f80069349eb655a7a585819
       <description>&lt;h1 id=&#34;cloud-foundry--aws--azure--gcp&#34;&gt;Cloud Foundry | AWS | Azure | GCP&lt;/h1&gt;&#xA;&lt;h3 id=&#34;cloud-foundry&#34;&gt;Cloud Foundry&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spent 3 years mastering cloud foundry.&lt;/li&gt;&#xA;&lt;li&gt;Deployments, Reliability tests, Disaster recovries.&lt;/li&gt;&#xA;&lt;li&gt;Automation using CF CLI and Powershell.&lt;/li&gt;&#xA;&lt;li&gt;Managed springboot, python, angular, react and go applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;aws&#34;&gt;AWS&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Certified Cloud Solutions Architect.&lt;/li&gt;&#xA;&lt;li&gt;aws cli.  EKS including &lt;strong&gt;fargate&lt;/strong&gt; &lt;strong&gt;EKS Cluster&lt;/strong&gt; &lt;strong&gt;EKS Demo&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kode Kloud certified CKA Admin.&lt;/li&gt;&#xA;&lt;li&gt;Deploying resources with Terraform.&lt;/li&gt;&#xA;&lt;li&gt;IAM. RBAC Authentication.  &lt;strong&gt;Cloud watch&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;azure&#34;&gt;Azure&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My &lt;strong&gt;First&lt;/strong&gt; Cloud certification.&lt;/li&gt;&#xA;&lt;li&gt;Specialized in AZURE Databases.&lt;/li&gt;&#xA;&lt;li&gt;Azure Kubernetes Services.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;gcp&#34;&gt;GCP&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I thought, already have two majors CSP&amp;rsquo;s, why not one more.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
