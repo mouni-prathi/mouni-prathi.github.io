@@ -1,5 +1,5 @@
 ---
-date: 2025
+date: 2025-01-01
 ---
 Seasoned **Site Reliability Engineer** with a **12-year** track record in IT, focusing on **Data Engineering** workloads and the establishment of **high-performance, reliable environments.** Dedicated to providing customer-focused, lightning-fast reporting to end users through close collaboration with data engineers to optimize **data pipeline executions and ETL/ELT processes.**
 
