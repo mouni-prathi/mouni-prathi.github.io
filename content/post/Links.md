@@ -12,9 +12,10 @@ Seasoned **Site Reliability Engineer** offering 12 years of progressive experien
 - :cd: [Databases/Datalakes](/databases)
 - :rocket: [CI/CD](ci_cd)
 - :robot: [SRE](sre)
-- :trophy: [Certifications](/certifications)
 ---   
 
 ###   :briefcase: [Experience](/mp_experience)
+---
+### :trophy: [Certifications](/certifications)
 ---
 ### :mailbox: [Contact](/page/about) 
