@@ -1,7 +1,7 @@
 ---
-date: 2025-01-01
+date: 2025-04-01
 ---
-Seasoned **Site Reliability Engineer** with a **12-year** track record in IT, focusing on **Data Engineering** workloads and the establishment of **high-performance, reliable environments.** Dedicated to providing customer-focused, lightning-fast reporting to end users through close collaboration with data engineers to optimize **data pipeline executions and ETL/ELT processes.**
+Seasoned **Site Reliability Engineer** offering 12 years of progressive experience within the IT landscape, focusing on **Data Engineering** workloads and the establishment of **high-performance, reliable systems.** Dedicated to providing customer-focused, lightning-fast reporting to end users through close collaboration with data engineers to optimize **data pipeline executions and ETL/ELT processes.**
 
 ### :gem:  Skills 
 - :cloud: [Cloud](/cloud_skills)   
@@ -12,6 +12,7 @@ Seasoned **Site Reliability Engineer** with a **12-year** track record in IT, fo
 - :cd: [Databases/Datalakes](/databases)
 - :rocket: [CI/CD](ci_cd)
 - :robot: [SRE](sre)
+- :trophy: [Certifications](/certifications)
 ---   
 
 ###   :briefcase: [Experience](/mp_experience)
