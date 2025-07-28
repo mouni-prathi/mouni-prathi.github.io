@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>http://localhost:1313/</link>
+    <link>http://10.0.0.36:1313/</link>
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>mouniprathi@outlook.com (Mouni Prathi)</managingEditor>
     <webMaster>mouniprathi@outlook.com (Mouni Prathi)</webMaster>
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://10.0.0.36:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/post/links/</link>
+      <link>http://10.0.0.36:1313/post/links/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/post/links/</guid>
-      <description>&lt;p&gt;Seasoned &lt;strong&gt;Site Reliability Engineer&lt;/strong&gt; offering 12 years of progressive experience within the IT landscape, focusing on &lt;strong&gt;Data Engineering&lt;/strong&gt; workloads and the establishment of &lt;strong&gt;high-performance, reliable systems.&lt;/strong&gt; Dedicated to providing customer-focused, lightning-fast reporting to end users through close collaboration with data engineers to optimize &lt;strong&gt;data pipeline executions and ETL/ELT processes.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;gem--skills&#34;&gt;&amp;#x1f48e;  Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;#x2601;&amp;#xfe0f; &lt;a href=&#34;http://localhost:1313/cloud_skills&#34;&gt;Cloud&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f6a2; &lt;a href=&#34;http://localhost:1313/containers&#34;&gt;Containers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f50d; &lt;a href=&#34;http://localhost:1313/monitoring&#34;&gt;Observability&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f52e; &lt;a href=&#34;http://localhost:1313/programming&#34;&gt;Coding&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f3a1; &lt;a href=&#34;http://localhost:1313/iac&#34;&gt;Infrastructre_as_code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f4bf; &lt;a href=&#34;http://localhost:1313/databases&#34;&gt;Databases/Datalakes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f680; &lt;a href=&#34;ci_cd&#34;&gt;CI/CD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f916; &lt;a href=&#34;sre&#34;&gt;SRE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;briefcase-experience&#34;&gt;&amp;#x1f4bc; &lt;a href=&#34;http://localhost:1313/mp_experience&#34;&gt;Experience&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;trophy-certifications&#34;&gt;&amp;#x1f3c6; &lt;a href=&#34;http://localhost:1313/certifications&#34;&gt;Certifications&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;mailbox-contact&#34;&gt;&amp;#x1f4eb; &lt;a href=&#34;http://localhost:1313/page/about&#34;&gt;Contact&lt;/a&gt;&lt;/h3&gt;</description>
+      <guid>http://10.0.0.36:1313/post/links/</guid>
+      <description>&lt;p&gt;Seasoned &lt;strong&gt;Site Reliability Engineer&lt;/strong&gt; offering 12 years of progressive experience within the IT landscape, focusing on &lt;strong&gt;Data Engineering&lt;/strong&gt; workloads and the establishment of &lt;strong&gt;high-performance, reliable systems.&lt;/strong&gt; Dedicated to providing customer-focused, lightning-fast reporting to end users through close collaboration with data engineers to optimize &lt;strong&gt;data pipeline executions and ETL/ELT processes.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;gem--skills&#34;&gt;&amp;#x1f48e;  Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;#x2601;&amp;#xfe0f; &lt;a href=&#34;http://10.0.0.36:1313/cloud_skills&#34;&gt;Cloud&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f6a2; &lt;a href=&#34;http://10.0.0.36:1313/containers&#34;&gt;Containers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f50d; &lt;a href=&#34;http://10.0.0.36:1313/monitoring&#34;&gt;Observability&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f52e; &lt;a href=&#34;http://10.0.0.36:1313/programming&#34;&gt;Coding&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f3a1; &lt;a href=&#34;http://10.0.0.36:1313/iac&#34;&gt;Infrastructre_as_code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f4bf; &lt;a href=&#34;http://10.0.0.36:1313/databases&#34;&gt;Databases/Datalakes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f680; &lt;a href=&#34;ci_cd&#34;&gt;CI/CD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&amp;#x1f916; &lt;a href=&#34;sre&#34;&gt;SRE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;briefcase-experience&#34;&gt;&amp;#x1f4bc; &lt;a href=&#34;http://10.0.0.36:1313/mp_experience&#34;&gt;Experience&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;trophy-certifications&#34;&gt;&amp;#x1f3c6; &lt;a href=&#34;http://10.0.0.36:1313/certifications&#34;&gt;Certifications&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;mailbox-contact&#34;&gt;&amp;#x1f4eb; &lt;a href=&#34;http://10.0.0.36:1313/page/about&#34;&gt;Contact&lt;/a&gt;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>SRE</title>
-      <link>http://localhost:1313/sre/</link>
+      <link>http://10.0.0.36:1313/sre/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/sre/</guid>
+      <guid>http://10.0.0.36:1313/sre/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;As an advocate for Site Reliability Engineering principles, I drive organizational growth and SRE excellence by breaking down silos to improve team collaboration,&#xA;leading blameless postmortems, and enhancing application observability, reliability, and scalability.&lt;/li&gt;&#xA;&lt;li&gt;My approach includes the continuous refinement of SLOs and SLIs based on performance data and user feedback, effectively utilizing error budgets for proactive reliability management.&lt;/li&gt;&#xA;&lt;li&gt;Leverage data-driven insights to resolve user incidents, exceptions, and application bottlenecks at their root cause. Engineered and executed site reliability and disaster recovery tests to ensure system resilience. Optimized database and application performance for enhanced user experience.&lt;/li&gt;&#xA;&lt;li&gt;Established and iteratively improved monitoring and alerting based on data patterns. Achieving a measurable reduction in application incidents counts through rigorous analysis, directly improving reliability.&lt;/li&gt;&#xA;&lt;li&gt;Proactively enhanced scalability and reliability through strategic capacity planning. Drove cost efficiencies for the business by implementing FinOps practices informed by usage trends.&lt;/li&gt;&#xA;&lt;li&gt;Managed and streamlined release processes across various stages and technologies, encompassing private clouds (Pivotal Cloud Foundry, Kubernetes, Hadoop) and public cloud environments (AWS, Azure, GCP).&lt;/li&gt;&#xA;&lt;li&gt;Expertise in automating solutions (using PowerShell, Python, and Golang) to reduce toil and improve operational efficiency. Adept at troubleshooting complex Spark jobs, data pipelines, and ETL/ELT processes involving dataflow between diverse sources like Oracle, SQL Server, PostgreSQL, MongoDB, Hadoop, and S3.&lt;/li&gt;&#xA;&lt;li&gt;Experienced in optimizing data retrieval with Dremio and Starburst and managing data Lakehouse environments on AWS Databricks. Proficient in monitoring DAGs using Apache Airflow.&lt;/li&gt;&#xA;&lt;li&gt;Release Management, Managing CI CD Pipelines. Documenting tasks and plans for organization. Collaborating with global team and participating in on-call Rota for incident management and alerts mitigation. Effective planning of on call resources and time for achieving no error executions and delivering goals.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/ci_cd/</link>
+      <link>http://10.0.0.36:1313/ci_cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/ci_cd/</guid>
+      <guid>http://10.0.0.36:1313/ci_cd/</guid>
       <description>&lt;h2 id=&#34;cicd&#34;&gt;CI/CD&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/containers/</link>
+      <link>http://10.0.0.36:1313/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/containers/</guid>
+      <guid>http://10.0.0.36:1313/containers/</guid>
       <description>&lt;h3 id=&#34;docker&#34;&gt;Docker&lt;/h3&gt;&#xA;&lt;h3 id=&#34;kubernetes&#34;&gt;Kubernetes&lt;/h3&gt;&#xA;&lt;h3 id=&#34;eks&#34;&gt;EKS&lt;/h3&gt;&#xA;&lt;h3 id=&#34;aks&#34;&gt;AKS&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/databases/</link>
+      <link>http://10.0.0.36:1313/databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/databases/</guid>
+      <guid>http://10.0.0.36:1313/databases/</guid>
       <description>&lt;h2 id=&#34;relational-databases&#34;&gt;Relational Databases&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Microsoft SQL Server&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;no-sql-databases&#34;&gt;No-SQL Databases&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MongoDB&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;RedIs&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;datalakes&#34;&gt;DataLakes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hadoop&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databricks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Starburst&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/first-post/</link>
+      <link>http://10.0.0.36:1313/first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/first-post/</guid>
+      <guid>http://10.0.0.36:1313/first-post/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/iac/</link>
+      <link>http://10.0.0.36:1313/iac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/iac/</guid>
+      <guid>http://10.0.0.36:1313/iac/</guid>
       <description>&lt;h3 id=&#34;terraform&#34;&gt;Terraform&lt;/h3&gt;&#xA;&lt;h3 id=&#34;cloud-formation&#34;&gt;Cloud Formation&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/monitoring/</link>
+      <link>http://10.0.0.36:1313/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/monitoring/</guid>
+      <guid>http://10.0.0.36:1313/monitoring/</guid>
       <description>&lt;h3 id=&#34;splunk&#34;&gt;Splunk&lt;/h3&gt;&#xA;&lt;h3 id=&#34;appdynamics&#34;&gt;AppDynamics&lt;/h3&gt;&#xA;&lt;h3 id=&#34;dynatrace&#34;&gt;DynaTrace&lt;/h3&gt;&#xA;&lt;h3 id=&#34;opsramp&#34;&gt;OpsRamp&lt;/h3&gt;&#xA;&lt;h3 id=&#34;bmc-patrol&#34;&gt;BMC Patrol&lt;/h3&gt;&#xA;&lt;h3 id=&#34;grafana&#34;&gt;Grafana&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/mp-cloud/</link>
+      <link>http://10.0.0.36:1313/mp-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/mp-cloud/</guid>
+      <guid>http://10.0.0.36:1313/mp-cloud/</guid>
       <description>&lt;h3 id=&#34;aint-there-too-many-clouds&#34;&gt;Ain&amp;rsquo;t there too many clouds?&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/programming/</link>
+      <link>http://10.0.0.36:1313/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/programming/</guid>
+      <guid>http://10.0.0.36:1313/programming/</guid>
       <description>&lt;h3 id=&#34;golang&#34;&gt;Golang&lt;/h3&gt;&#xA;&lt;h3 id=&#34;powershell&#34;&gt;Powershell&lt;/h3&gt;&#xA;&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ruby&#34;&gt;Ruby&lt;/h3&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/page/about/</link>
+      <link>http://10.0.0.36:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/page/about/</guid>
+      <guid>http://10.0.0.36:1313/page/about/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;about-me-raising_hand&#34;&gt;About Me &amp;#x1f64b;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;#x2714;&amp;#xfe0f; 12 years of Total IT Experience. Seasoned SRE with high performance applications and databases support. &lt;br&gt;&#xA;&amp;#x2714;&amp;#xfe0f; Site Reliability Engineer with Speciality in Databases and Data Engineering products for lighting fast reporting.&lt;br&gt;&#xA;&amp;#x2714;&amp;#xfe0f; Application Design, Performance, Troubleshooting. Microservices, Cloud, Onprem, Edge computing, Contenarization and Datalakes.&lt;br&gt;&#xA;&amp;#x2714;&amp;#xfe0f; Event Driven Automation, Scripting, Monitoring.&lt;br&gt;&#xA;&amp;#x1f4e7; DM me on &lt;a href=&#34;https://www.linkedin.com/in/mouni-prathi-sre/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;hobbies&#34;&gt;Hobbies:&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Video games &amp;#x1f579;&amp;#xfe0f; Hiking! &amp;#x26f0;&amp;#xfe0f; Camping &amp;#x26fa; Reading &amp;#x1f4d6; MotorCycling &amp;#x1f3cd;&amp;#xfe0f;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ceritifications</title>
-      <link>http://localhost:1313/certifications/</link>
+      <link>http://10.0.0.36:1313/certifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/certifications/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Microsoft Database administrator - 2013&lt;/li&gt;&#xA;&lt;li&gt;AWS Solution Architect Associate - 2023&lt;/li&gt;&#xA;&lt;li&gt;Databricks Fundamentals (Accreditation) - 2025&lt;/li&gt;&#xA;&lt;li&gt;Azure Database Administrator - 2022&lt;/li&gt;&#xA;&lt;li&gt;Kode Kloud AWS EKS – 2025&lt;/li&gt;&#xA;&lt;li&gt;Starburst Certified Practitioner - 2025&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://10.0.0.36:1313/certifications/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.credly.com/badges/22b6efad-3e06-454a-ad1a-5e27c32a4538/public_url&#34;&gt;HashiCorp Certified Terraform Associate -2025&lt;/a&gt;  &amp;#x1f517;&lt;/li&gt;&#xA;&lt;li&gt;Starburst Certified Practitioner - 2025 &amp;#x1f517; &lt;a href=&#34;https://www.credly.com/badges/4c4b5add-6418-4a3c-adbb-ef9c222e3dff/public_url&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kode Kloud AWS EKS – 2025 &amp;#x1f517; &lt;a href=&#34;https://learn.kodekloud.com/certificate/1b77b62b-86fe-4ec7-8a13-3eaa986f9f1b&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Databricks Fundamentals (Accreditation) - 2025 &amp;#x1f517; &lt;a href=&#34;https://credentials.databricks.com/b4ef9268-a1c0-4a37-8b4b-8a99bb9fc5c3&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;AWS Solution Architect Associate - 2023 &amp;#x1f517; &lt;a href=&#34;https://www.credly.com/badges/f46ba264-ac6b-41d8-b1d7-c3b154bb76c4/public_url&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Azure Database Administrator - 2022 &amp;#x1f517; &lt;a href=&#34;https://www.credly.com/badges/5539b6fb-1879-4a44-9028-ac5d9598daf1/public_url&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Microsoft Database administrator - 2013 &amp;#x1f517; &lt;a href=&#34;https://www.credly.com/badges/6fb4b525-d5b8-48c8-b416-7f693844a4e4/public_url&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/mp_experience/</link>
+      <link>http://10.0.0.36:1313/mp_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/mp_experience/</guid>
+      <guid>http://10.0.0.36:1313/mp_experience/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;jpmorgan-chase&#34;&gt;JPMorgan Chase&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;role-sre&#34;&gt;Role: SRE&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Operations, Release management, Obesarvability and Engineering.&lt;/li&gt;&#xA;&lt;li&gt;Incident handling and Incident trend analysis for count reduction.&lt;/li&gt;&#xA;&lt;li&gt;Operations support for Data Engineers for heavy reporting infrastructure.&lt;/li&gt;&#xA;&lt;li&gt;Hands on experience in &lt;strong&gt;Cloud Foundry&lt;/strong&gt;, &lt;strong&gt;AWS&lt;/strong&gt;, &lt;strong&gt;EKS&lt;/strong&gt;, &lt;strong&gt;Apache Airflow&lt;/strong&gt;, &lt;strong&gt;DataBricks&lt;/strong&gt;,&lt;strong&gt;Hadoop&lt;/strong&gt;, &lt;strong&gt;Dremio&lt;/strong&gt;, &lt;strong&gt;Startburst&lt;/strong&gt;, &lt;strong&gt;Kubernetes&lt;/strong&gt;, &lt;strong&gt;EKS&lt;/strong&gt;, &lt;strong&gt;Tableau&lt;/strong&gt;, &lt;strong&gt;Kafka&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Observability using &lt;strong&gt;Splunk&lt;/strong&gt;, &lt;strong&gt;DynaTrace&lt;/strong&gt;, &lt;strong&gt;AppDynamics&lt;/strong&gt;, &lt;strong&gt;Grafana&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Site/Data Center Reliability and Disaster Recovery tests plan and executions.&lt;/li&gt;&#xA;&lt;li&gt;Automation. Event driven. Log analysis.&lt;/li&gt;&#xA;&lt;li&gt;Performance tuning. End user communication.&lt;/li&gt;&#xA;&lt;li&gt;SLO Management and Error Budgets, strict SLA goals by defining SLIs and KPIs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;micron&#34;&gt;Micron&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;role-devops-engineer---databases&#34;&gt;Role: DevOps Engineer - Databases&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Database administrtion. Troubleshooting. Database optimization.&lt;/li&gt;&#xA;&lt;li&gt;Database replication. Always ON database availability groups.&lt;/li&gt;&#xA;&lt;li&gt;PowerShell Automation for Database deployments and backup-restores.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cystron-pharma&#34;&gt;Cystron Pharma&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;role-database-administrator&#34;&gt;Role: Database Administrator&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Migrating on-prem to Azure Cloud.&lt;/li&gt;&#xA;&lt;li&gt;Database report optimization. SSRS.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;aig&#34;&gt;AIG&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;role-database-admin&#34;&gt;Role: Database admin&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Database administrtion. Troubleshooting. Database optimization.&lt;/li&gt;&#xA;&lt;li&gt;Building database instances from Standalone, Windows Failover cluster.&lt;/li&gt;&#xA;&lt;li&gt;Database mirroring and replication.&lt;/li&gt;&#xA;&lt;li&gt;License discovery and cost optimization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>So Cloudy!!</title>
-      <link>http://localhost:1313/cloud_skills/</link>
+      <link>http://10.0.0.36:1313/cloud_skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mouniprathi@outlook.com (Mouni Prathi)</author>
-      <guid>http://localhost:1313/cloud_skills/</guid>
+      <guid>http://10.0.0.36:1313/cloud_skills/</guid>
       <description>&lt;h1 id=&#34;cloud-foundry--aws--azure--gcp&#34;&gt;Cloud Foundry | AWS | Azure | GCP&lt;/h1&gt;&#xA;&lt;h3 id=&#34;cloud-foundry&#34;&gt;Cloud Foundry&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spent 3 years mastering cloud foundry.&lt;/li&gt;&#xA;&lt;li&gt;Deployments, Reliability tests, Disaster recovries.&lt;/li&gt;&#xA;&lt;li&gt;Automation using CF CLI and Powershell.&lt;/li&gt;&#xA;&lt;li&gt;Managed springboot, python, angular, react and go applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;aws&#34;&gt;AWS&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Certified Cloud Solutions Architect.&lt;/li&gt;&#xA;&lt;li&gt;aws cli.  EKS including &lt;strong&gt;fargate&lt;/strong&gt; &lt;strong&gt;EKS Cluster&lt;/strong&gt; &lt;strong&gt;EKS Demo&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kode Kloud certified CKA Admin.&lt;/li&gt;&#xA;&lt;li&gt;Deploying resources with Terraform.&lt;/li&gt;&#xA;&lt;li&gt;IAM. RBAC Authentication.  &lt;strong&gt;Cloud watch&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;azure&#34;&gt;Azure&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My &lt;strong&gt;First&lt;/strong&gt; Cloud certification.&lt;/li&gt;&#xA;&lt;li&gt;Specialized in AZURE Databases.&lt;/li&gt;&#xA;&lt;li&gt;Azure Kubernetes Services.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;gcp&#34;&gt;GCP&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I thought, already have two majors CSP&amp;rsquo;s, why not one more.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
