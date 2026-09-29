@@ -2,6 +2,17 @@
 Title: "Experience"
 ---
 ---
+## Situs AMC 
+---
+  ### Role: SRE
+- **Terraform** IAC managing AWS Services. **Elastic Beanstalk** managing **Cloud Formation** Stacks.
+- **Application release** and **Disaster Recovery**
+- **Fin ops**, **Monitoring**, **Cloud Watch** monitoring, **RDS Upgrade**
+- Change management, Incident management.
+- RCA, Network issues, Setting up Infrastructure.
+- Azure DevOps pipelines. Automation. Cursor and Copilot.
+- Collaborating with Product Support team and different clients.
+---
 ## JPMorgan Chase 
 ---
   ### Role: SRE
